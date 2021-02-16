@@ -1,3 +1,47 @@
 {
-"sub_fields":["80C0 - Payment of life insurance premium","80C -contribution to unit","80CCC - Contribution to pension plans","80C - Deposite in PPF","80C - Purchase of national saving certificates","80C - Contribution to Equity linked saving schemes","80C - Payment of tution fees forchildren","80C - Fixed deposite for 5 years","80C - Housing loan - repayment of principle","80C - Sukanya Samriddhi Scheme","80CCD - Contribution to National Pension scheme"]
+"sub_fields":[
+{ id : 1,
+  section:"80C - Payment of life insurance premium"
+},
+{
+  id:2,
+  section: "80C -contribution to unit"
+},
+{
+  id : 3,
+  section: "80CCC - Contribution to pension plans"
+},
+{
+  id:4,
+  section: "80C - Deposite in PPF"
+},
+{
+  id:5,
+  section : "80C - Purchase of national saving certificates"
+},
+{
+  id:6,
+  section : "80C - Contribution to Equity linked saving schemes"
+},
+{
+  id:7,
+  section : "80C - Payment of tution fees forchildren"
+},
+{
+  id:8,
+  section : "80C - Fixed deposite for 5 years"
+},
+{
+  id:9,
+  section: "80C - Housing loan - repayment of principle"
+},
+{
+  id:10,
+  section : "80C - Sukanya Samriddhi Scheme"
+},
+{
+  id:11,
+  section: "80CCD - Contribution to National Pension scheme"
+}
+]
 }
